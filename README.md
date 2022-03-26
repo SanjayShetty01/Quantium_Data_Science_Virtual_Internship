@@ -29,12 +29,7 @@ Extend your analysis from Task 1 to help you identify benchmark stores that allo
 
 Julia has asked us to evaluate the performance of a store trial which was performed in stores 77, 86 and 88.
 
-
-We have chosen to complete this task in R, however you will also find Python to be a useful tool in this piece of analytics. We have also provided an R solution template if you want some assistance in getting through this Task.
-
-
 To get started use the QVI_data dataset below or your output from task 1 and consider the monthly sales experience of each store. 
-
 
 This can be broken down by:
 
